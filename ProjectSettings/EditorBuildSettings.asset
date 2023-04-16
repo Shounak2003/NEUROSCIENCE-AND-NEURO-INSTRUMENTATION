@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 2a2f8f480c2be5a42b765ec591f70474
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_1.unity
+    guid: cc448eecd32a64f469539b3d99281411
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_2.unity
+    guid: 3d70725c5feb6cf4ebaa6d6fba75b0c8
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_3.unity
+    guid: a7515d9ea13c5ec41904dd106c65241e
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_5.unity
+    guid: 617dc69167a1f05458c223a1aadaaede
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_6.unity
+    guid: f83dded20e54a3042a4a3799ae403909
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_7.unity
+    guid: aea23b5a006d412418b5490bbbd68396
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_8.unity
+    guid: 4ad0cd6fb17f41d44857482e7c2bd25e
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Subquestions/Smoke_Subquestion.unity
+    guid: 0493b4a9c1ac7ed4b967c1798efbf69a
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_9.unity
+    guid: f46a427f6308a7f46a6ba92efcfdf43d
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Subquestions/Drink_SubQuestion.unity
+    guid: e435babe815db2449993a9feb541b1eb
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_10.unity
+    guid: 59fa526c73e75b446adabeb20ea266f1
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_11.unity
+    guid: 48f273ec2e7a3414b9d7eca81c95ac47
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Subquestions/Caffinated_SubQuestion.unity
+    guid: 7186367939b919d4daa412e4cf84cccd
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Subquestions/Caffinated_SubQuestion_2.unity
+    guid: 74fce5da1d04d2a478883f2735682bf9
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_12.unity
+    guid: 2a674862dab67cc498cefcfbd25b6c3b
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_13.unity
+    guid: 89628213cae21db4f8e2a2dd9c564e60
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_14.unity
+    guid: 6257688730f6f7342b2f023b5617a77e
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_15.unity
+    guid: ccb31b304d2591a40a924c16c5c6ff07
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_17.unity
+    guid: 2dd6f3f6abf723a448ab636fe165eb2b
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_18.unity
+    guid: d1ca430070e675b478daa6217f71c069
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_19.unity
+    guid: 4829512b4bcc19a4e87fc40009f2bb89
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_20.unity
+    guid: 76dc3d1146ed56b45aa53a91f4ad506d
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_21.unity
+    guid: eb31283b56910884cbd25d0f4dc87873
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_22.unity
+    guid: 67ba6c0ac393f624b898e0e441b1faaf
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/Pre_Screening_23.unity
+    guid: b5ecf593f91f7e545981808108a95986
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/GI.unity
+    guid: c6fc2ef6afd0966488ab9391cadea404
+  - enabled: 1
+    path: Assets/Scenes/Pre_Screening/GI2.0.unity
+    guid: 4b8a288a8c14b7f43aa5ad8b898eb422
+  - enabled: 1
+    path: Assets/Scenes/Models/Screening_Day.unity
+    guid: 7e26206b6ec0ba845849a658804192b6
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_1.unity
+    guid: ae9124bb429c7e346adcf7eb85530f4c
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_2.unity
+    guid: 57ea426d9f18fac41b6f09206600467f
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_3.unity
+    guid: a23d299fa9cf5324c9b5a1fae5d66d4c
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_4.unity
+    guid: 7adf55ee9991edd49834110420bcbec7
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_5.unity
+    guid: 46f30eb99803b7244965ca2e01cc1a05
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_6.unity
+    guid: fd3e2a7e1ccd13a4eb2ae102c93b9cf9
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_7.unity
+    guid: 704b9b621b879cb4da4c5c1a953088b9
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_8.unity
+    guid: a8842dfa733cc4a49a622cc8101fa5a1
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_9.unity
+    guid: e30639687f07d314e9b9f5071d2df597
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_screening_10.unity
+    guid: e2aca2960539fc04b8f429b96834ecbc
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_11.unity
+    guid: 17ab5f701020ed546948e281f8e2901c
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_12.unity
+    guid: ff550b1bd44e96540b4c8b7b9091128e
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_13.unity
+    guid: 91eff057ee918f243bd30cacab49fe4a
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_14.unity
+    guid: 2df685ec2e1aa064391a2809e1999d71
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_15.unity
+    guid: 82b4b8e59820fb04d9cc98b9203f43f9
+  - enabled: 1
+    path: Assets/Scenes/Post_Screening/Post_Screening_16.unity
+    guid: f501415cd10bdf645b9de370b8b9d8b6
+  - enabled: 1
+    path: Assets/Scenes/End Scene.unity
+    guid: e4e4f2f4c256dea42aa855e4630ce200
+  m_configObjects: {}
